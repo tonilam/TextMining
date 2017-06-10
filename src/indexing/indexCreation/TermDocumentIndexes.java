@@ -1,5 +1,5 @@
 /**
- * 
+ * Term-Document Indexes is also called invert index
  */
 package indexing.indexCreation;
 
